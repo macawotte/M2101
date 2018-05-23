@@ -18,7 +18,7 @@ double sum2 (double *tab, int size){
 }
 
 int main (void){
-	int tab[] = {100,10,1,0.1,0.01};
-	printf(sum1(tab,sizeof(tab)));
-	printf(sum2(tab,sizeof(tab)));
+	double tab[] = {100,10,1,0.1,0.01};
+	printf(
+	printf(
 }
